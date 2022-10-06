@@ -1,0 +1,16 @@
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Funcoes\bin\Debug\net5.0\Funcoes.exe
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Funcoes\bin\Debug\net5.0\Funcoes.deps.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Funcoes\bin\Debug\net5.0\Funcoes.runtimeconfig.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Funcoes\bin\Debug\net5.0\Funcoes.runtimeconfig.dev.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Funcoes\bin\Debug\net5.0\Funcoes.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Funcoes\bin\Debug\net5.0\ref\Funcoes.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Funcoes\bin\Debug\net5.0\Funcoes.pdb
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Funcoes\obj\Debug\net5.0\Funcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Funcoes\obj\Debug\net5.0\Funcoes.AssemblyInfoInputs.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Funcoes\obj\Debug\net5.0\Funcoes.AssemblyInfo.cs
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Funcoes\obj\Debug\net5.0\Funcoes.csproj.CoreCompileInputs.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Funcoes\obj\Debug\net5.0\Funcoes.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Funcoes\obj\Debug\net5.0\ref\Funcoes.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Funcoes\obj\Debug\net5.0\Funcoes.pdb
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Funcoes\obj\Debug\net5.0\Funcoes.genruntimeconfig.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Funcoes\obj\Debug\net5.0\Funcoes.csproj.AssemblyReference.cache

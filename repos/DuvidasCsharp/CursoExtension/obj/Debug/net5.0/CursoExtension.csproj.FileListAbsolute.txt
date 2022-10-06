@@ -1,0 +1,16 @@
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\CursoExtension\bin\Debug\net5.0\CursoExtension.exe
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\CursoExtension\bin\Debug\net5.0\CursoExtension.deps.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\CursoExtension\bin\Debug\net5.0\CursoExtension.runtimeconfig.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\CursoExtension\bin\Debug\net5.0\CursoExtension.runtimeconfig.dev.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\CursoExtension\bin\Debug\net5.0\CursoExtension.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\CursoExtension\bin\Debug\net5.0\ref\CursoExtension.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\CursoExtension\bin\Debug\net5.0\CursoExtension.pdb
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\CursoExtension\obj\Debug\net5.0\CursoExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\CursoExtension\obj\Debug\net5.0\CursoExtension.AssemblyInfoInputs.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\CursoExtension\obj\Debug\net5.0\CursoExtension.AssemblyInfo.cs
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\CursoExtension\obj\Debug\net5.0\CursoExtension.csproj.CoreCompileInputs.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\CursoExtension\obj\Debug\net5.0\CursoExtension.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\CursoExtension\obj\Debug\net5.0\ref\CursoExtension.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\CursoExtension\obj\Debug\net5.0\CursoExtension.pdb
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\CursoExtension\obj\Debug\net5.0\CursoExtension.genruntimeconfig.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\CursoExtension\obj\Debug\net5.0\CursoExtension.csproj.AssemblyReference.cache

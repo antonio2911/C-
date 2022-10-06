@@ -1,0 +1,16 @@
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\DuvidasCsharp\bin\Debug\net5.0\DuvidasCsharp.exe
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\DuvidasCsharp\bin\Debug\net5.0\DuvidasCsharp.deps.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\DuvidasCsharp\bin\Debug\net5.0\DuvidasCsharp.runtimeconfig.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\DuvidasCsharp\bin\Debug\net5.0\DuvidasCsharp.runtimeconfig.dev.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\DuvidasCsharp\bin\Debug\net5.0\DuvidasCsharp.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\DuvidasCsharp\bin\Debug\net5.0\ref\DuvidasCsharp.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\DuvidasCsharp\bin\Debug\net5.0\DuvidasCsharp.pdb
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\DuvidasCsharp\obj\Debug\net5.0\DuvidasCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\DuvidasCsharp\obj\Debug\net5.0\DuvidasCsharp.AssemblyInfoInputs.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\DuvidasCsharp\obj\Debug\net5.0\DuvidasCsharp.AssemblyInfo.cs
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\DuvidasCsharp\obj\Debug\net5.0\DuvidasCsharp.csproj.CoreCompileInputs.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\DuvidasCsharp\obj\Debug\net5.0\DuvidasCsharp.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\DuvidasCsharp\obj\Debug\net5.0\ref\DuvidasCsharp.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\DuvidasCsharp\obj\Debug\net5.0\DuvidasCsharp.pdb
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\DuvidasCsharp\obj\Debug\net5.0\DuvidasCsharp.genruntimeconfig.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\DuvidasCsharp\obj\Debug\net5.0\DuvidasCsharp.csproj.AssemblyReference.cache

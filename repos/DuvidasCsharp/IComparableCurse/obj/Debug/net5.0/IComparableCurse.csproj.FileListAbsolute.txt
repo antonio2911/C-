@@ -1,0 +1,16 @@
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\IComparableCurse\bin\Debug\net5.0\IComparableCurse.exe
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\IComparableCurse\bin\Debug\net5.0\IComparableCurse.deps.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\IComparableCurse\bin\Debug\net5.0\IComparableCurse.runtimeconfig.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\IComparableCurse\bin\Debug\net5.0\IComparableCurse.runtimeconfig.dev.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\IComparableCurse\bin\Debug\net5.0\IComparableCurse.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\IComparableCurse\bin\Debug\net5.0\ref\IComparableCurse.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\IComparableCurse\bin\Debug\net5.0\IComparableCurse.pdb
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\IComparableCurse\obj\Debug\net5.0\IComparableCurse.csproj.AssemblyReference.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\IComparableCurse\obj\Debug\net5.0\IComparableCurse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\IComparableCurse\obj\Debug\net5.0\IComparableCurse.AssemblyInfoInputs.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\IComparableCurse\obj\Debug\net5.0\IComparableCurse.AssemblyInfo.cs
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\IComparableCurse\obj\Debug\net5.0\IComparableCurse.csproj.CoreCompileInputs.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\IComparableCurse\obj\Debug\net5.0\IComparableCurse.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\IComparableCurse\obj\Debug\net5.0\ref\IComparableCurse.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\IComparableCurse\obj\Debug\net5.0\IComparableCurse.pdb
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\IComparableCurse\obj\Debug\net5.0\IComparableCurse.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "IComparableCurse/1.0.0": {
+        "runtime": {
+          "IComparableCurse.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IComparableCurse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

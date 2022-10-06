@@ -1,0 +1,16 @@
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\ContratoExemploInterfaces\obj\Debug\net5.0\ContratoExemploInterfaces.csproj.AssemblyReference.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\ContratoExemploInterfaces\obj\Debug\net5.0\ContratoExemploInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\ContratoExemploInterfaces\obj\Debug\net5.0\ContratoExemploInterfaces.AssemblyInfoInputs.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\ContratoExemploInterfaces\obj\Debug\net5.0\ContratoExemploInterfaces.AssemblyInfo.cs
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\ContratoExemploInterfaces\obj\Debug\net5.0\ContratoExemploInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\ContratoExemploInterfaces\bin\Debug\net5.0\ContratoExemploInterfaces.exe
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\ContratoExemploInterfaces\bin\Debug\net5.0\ContratoExemploInterfaces.deps.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\ContratoExemploInterfaces\bin\Debug\net5.0\ContratoExemploInterfaces.runtimeconfig.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\ContratoExemploInterfaces\bin\Debug\net5.0\ContratoExemploInterfaces.runtimeconfig.dev.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\ContratoExemploInterfaces\bin\Debug\net5.0\ContratoExemploInterfaces.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\ContratoExemploInterfaces\bin\Debug\net5.0\ref\ContratoExemploInterfaces.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\ContratoExemploInterfaces\bin\Debug\net5.0\ContratoExemploInterfaces.pdb
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\ContratoExemploInterfaces\obj\Debug\net5.0\ContratoExemploInterfaces.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\ContratoExemploInterfaces\obj\Debug\net5.0\ref\ContratoExemploInterfaces.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\ContratoExemploInterfaces\obj\Debug\net5.0\ContratoExemploInterfaces.pdb
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\ContratoExemploInterfaces\obj\Debug\net5.0\ContratoExemploInterfaces.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Nullable\bin\Debug\net5.0\Nullable.exe
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Nullable\bin\Debug\net5.0\Nullable.deps.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Nullable\bin\Debug\net5.0\Nullable.runtimeconfig.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Nullable\bin\Debug\net5.0\Nullable.runtimeconfig.dev.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Nullable\bin\Debug\net5.0\Nullable.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Nullable\bin\Debug\net5.0\ref\Nullable.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Nullable\bin\Debug\net5.0\Nullable.pdb
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Nullable\obj\Debug\net5.0\Nullable.csproj.AssemblyReference.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Nullable\obj\Debug\net5.0\Nullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Nullable\obj\Debug\net5.0\Nullable.AssemblyInfoInputs.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Nullable\obj\Debug\net5.0\Nullable.AssemblyInfo.cs
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Nullable\obj\Debug\net5.0\Nullable.csproj.CoreCompileInputs.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Nullable\obj\Debug\net5.0\Nullable.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Nullable\obj\Debug\net5.0\ref\Nullable.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Nullable\obj\Debug\net5.0\Nullable.pdb
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Nullable\obj\Debug\net5.0\Nullable.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\EntradaDeDados\bin\Debug\net5.0\EntradaDeDados.exe
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\EntradaDeDados\bin\Debug\net5.0\EntradaDeDados.deps.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\EntradaDeDados\bin\Debug\net5.0\EntradaDeDados.runtimeconfig.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\EntradaDeDados\bin\Debug\net5.0\EntradaDeDados.runtimeconfig.dev.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\EntradaDeDados\bin\Debug\net5.0\EntradaDeDados.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\EntradaDeDados\bin\Debug\net5.0\ref\EntradaDeDados.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\EntradaDeDados\bin\Debug\net5.0\EntradaDeDados.pdb
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\EntradaDeDados\obj\Debug\net5.0\EntradaDeDados.csproj.AssemblyReference.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\EntradaDeDados\obj\Debug\net5.0\EntradaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\EntradaDeDados\obj\Debug\net5.0\EntradaDeDados.AssemblyInfoInputs.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\EntradaDeDados\obj\Debug\net5.0\EntradaDeDados.AssemblyInfo.cs
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\EntradaDeDados\obj\Debug\net5.0\EntradaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\EntradaDeDados\obj\Debug\net5.0\EntradaDeDados.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\EntradaDeDados\obj\Debug\net5.0\ref\EntradaDeDados.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\EntradaDeDados\obj\Debug\net5.0\EntradaDeDados.pdb
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\EntradaDeDados\obj\Debug\net5.0\EntradaDeDados.genruntimeconfig.cache

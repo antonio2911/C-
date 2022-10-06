@@ -1,0 +1,16 @@
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\GetHastCodeExemplo\bin\Release\net5.0\GetHastCodeExemplo.exe
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\GetHastCodeExemplo\bin\Release\net5.0\GetHastCodeExemplo.deps.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\GetHastCodeExemplo\bin\Release\net5.0\GetHastCodeExemplo.runtimeconfig.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\GetHastCodeExemplo\bin\Release\net5.0\GetHastCodeExemplo.runtimeconfig.dev.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\GetHastCodeExemplo\bin\Release\net5.0\GetHastCodeExemplo.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\GetHastCodeExemplo\bin\Release\net5.0\ref\GetHastCodeExemplo.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\GetHastCodeExemplo\bin\Release\net5.0\GetHastCodeExemplo.pdb
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\GetHastCodeExemplo\obj\Release\net5.0\GetHastCodeExemplo.csproj.AssemblyReference.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\GetHastCodeExemplo\obj\Release\net5.0\GetHastCodeExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\GetHastCodeExemplo\obj\Release\net5.0\GetHastCodeExemplo.AssemblyInfoInputs.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\GetHastCodeExemplo\obj\Release\net5.0\GetHastCodeExemplo.AssemblyInfo.cs
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\GetHastCodeExemplo\obj\Release\net5.0\GetHastCodeExemplo.csproj.CoreCompileInputs.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\GetHastCodeExemplo\obj\Release\net5.0\GetHastCodeExemplo.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\GetHastCodeExemplo\obj\Release\net5.0\ref\GetHastCodeExemplo.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\GetHastCodeExemplo\obj\Release\net5.0\GetHastCodeExemplo.pdb
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\GetHastCodeExemplo\obj\Release\net5.0\GetHastCodeExemplo.genruntimeconfig.cache

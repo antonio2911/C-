@@ -1,0 +1,16 @@
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Enumerados\bin\Debug\net5.0\Enumerados.exe
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Enumerados\bin\Debug\net5.0\Enumerados.deps.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Enumerados\bin\Debug\net5.0\Enumerados.runtimeconfig.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Enumerados\bin\Debug\net5.0\Enumerados.runtimeconfig.dev.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Enumerados\bin\Debug\net5.0\Enumerados.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Enumerados\bin\Debug\net5.0\ref\Enumerados.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Enumerados\bin\Debug\net5.0\Enumerados.pdb
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Enumerados\obj\Debug\net5.0\Enumerados.csproj.AssemblyReference.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Enumerados\obj\Debug\net5.0\Enumerados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Enumerados\obj\Debug\net5.0\Enumerados.AssemblyInfoInputs.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Enumerados\obj\Debug\net5.0\Enumerados.AssemblyInfo.cs
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Enumerados\obj\Debug\net5.0\Enumerados.csproj.CoreCompileInputs.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Enumerados\obj\Debug\net5.0\Enumerados.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Enumerados\obj\Debug\net5.0\ref\Enumerados.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Enumerados\obj\Debug\net5.0\Enumerados.pdb
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Enumerados\obj\Debug\net5.0\Enumerados.genruntimeconfig.cache

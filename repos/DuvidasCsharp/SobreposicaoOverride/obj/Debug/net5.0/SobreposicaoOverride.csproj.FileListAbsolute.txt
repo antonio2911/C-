@@ -1,0 +1,16 @@
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\SobreposicaoOverride\bin\Debug\net5.0\SobreposicaoOverride.exe
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\SobreposicaoOverride\bin\Debug\net5.0\SobreposicaoOverride.deps.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\SobreposicaoOverride\bin\Debug\net5.0\SobreposicaoOverride.runtimeconfig.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\SobreposicaoOverride\bin\Debug\net5.0\SobreposicaoOverride.runtimeconfig.dev.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\SobreposicaoOverride\bin\Debug\net5.0\SobreposicaoOverride.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\SobreposicaoOverride\bin\Debug\net5.0\ref\SobreposicaoOverride.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\SobreposicaoOverride\bin\Debug\net5.0\SobreposicaoOverride.pdb
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\SobreposicaoOverride\obj\Debug\net5.0\SobreposicaoOverride.csproj.AssemblyReference.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\SobreposicaoOverride\obj\Debug\net5.0\SobreposicaoOverride.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\SobreposicaoOverride\obj\Debug\net5.0\SobreposicaoOverride.AssemblyInfoInputs.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\SobreposicaoOverride\obj\Debug\net5.0\SobreposicaoOverride.AssemblyInfo.cs
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\SobreposicaoOverride\obj\Debug\net5.0\SobreposicaoOverride.csproj.CoreCompileInputs.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\SobreposicaoOverride\obj\Debug\net5.0\SobreposicaoOverride.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\SobreposicaoOverride\obj\Debug\net5.0\ref\SobreposicaoOverride.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\SobreposicaoOverride\obj\Debug\net5.0\SobreposicaoOverride.pdb
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\SobreposicaoOverride\obj\Debug\net5.0\SobreposicaoOverride.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\antonio.pardim\Documents\teste deploy\Funcoes.exe
+C:\Users\antonio.pardim\Documents\teste deploy\Funcoes.dll
+C:\Users\antonio.pardim\Documents\teste deploy\Funcoes.deps.json
+C:\Users\antonio.pardim\Documents\teste deploy\Funcoes.runtimeconfig.json
+C:\Users\antonio.pardim\Documents\teste deploy\Funcoes.pdb

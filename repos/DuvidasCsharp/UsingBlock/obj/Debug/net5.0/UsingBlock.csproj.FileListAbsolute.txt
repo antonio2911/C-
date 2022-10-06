@@ -1,0 +1,16 @@
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\UsingBlock\bin\Debug\net5.0\UsingBlock.exe
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\UsingBlock\bin\Debug\net5.0\UsingBlock.deps.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\UsingBlock\bin\Debug\net5.0\UsingBlock.runtimeconfig.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\UsingBlock\bin\Debug\net5.0\UsingBlock.runtimeconfig.dev.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\UsingBlock\bin\Debug\net5.0\UsingBlock.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\UsingBlock\bin\Debug\net5.0\ref\UsingBlock.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\UsingBlock\bin\Debug\net5.0\UsingBlock.pdb
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\UsingBlock\obj\Debug\net5.0\UsingBlock.csproj.AssemblyReference.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\UsingBlock\obj\Debug\net5.0\UsingBlock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\UsingBlock\obj\Debug\net5.0\UsingBlock.AssemblyInfoInputs.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\UsingBlock\obj\Debug\net5.0\UsingBlock.AssemblyInfo.cs
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\UsingBlock\obj\Debug\net5.0\UsingBlock.csproj.CoreCompileInputs.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\UsingBlock\obj\Debug\net5.0\UsingBlock.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\UsingBlock\obj\Debug\net5.0\ref\UsingBlock.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\UsingBlock\obj\Debug\net5.0\UsingBlock.pdb
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\UsingBlock\obj\Debug\net5.0\UsingBlock.genruntimeconfig.cache

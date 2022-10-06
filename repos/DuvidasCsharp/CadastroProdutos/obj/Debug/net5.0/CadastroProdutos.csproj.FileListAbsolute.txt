@@ -1,0 +1,16 @@
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\CadastroProdutos\bin\Debug\net5.0\CadastroProdutos.exe
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\CadastroProdutos\bin\Debug\net5.0\CadastroProdutos.deps.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\CadastroProdutos\bin\Debug\net5.0\CadastroProdutos.runtimeconfig.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\CadastroProdutos\bin\Debug\net5.0\CadastroProdutos.runtimeconfig.dev.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\CadastroProdutos\bin\Debug\net5.0\CadastroProdutos.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\CadastroProdutos\bin\Debug\net5.0\ref\CadastroProdutos.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\CadastroProdutos\bin\Debug\net5.0\CadastroProdutos.pdb
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\CadastroProdutos\obj\Debug\net5.0\CadastroProdutos.csproj.AssemblyReference.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\CadastroProdutos\obj\Debug\net5.0\CadastroProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\CadastroProdutos\obj\Debug\net5.0\CadastroProdutos.AssemblyInfoInputs.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\CadastroProdutos\obj\Debug\net5.0\CadastroProdutos.AssemblyInfo.cs
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\CadastroProdutos\obj\Debug\net5.0\CadastroProdutos.csproj.CoreCompileInputs.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\CadastroProdutos\obj\Debug\net5.0\CadastroProdutos.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\CadastroProdutos\obj\Debug\net5.0\ref\CadastroProdutos.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\CadastroProdutos\obj\Debug\net5.0\CadastroProdutos.pdb
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\CadastroProdutos\obj\Debug\net5.0\CadastroProdutos.genruntimeconfig.cache

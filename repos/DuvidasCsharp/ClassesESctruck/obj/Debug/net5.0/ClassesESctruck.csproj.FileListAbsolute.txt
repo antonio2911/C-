@@ -1,0 +1,16 @@
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\ClassesESctruck\obj\Debug\net5.0\ClassesESctruck.csproj.AssemblyReference.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\ClassesESctruck\obj\Debug\net5.0\ClassesESctruck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\ClassesESctruck\obj\Debug\net5.0\ClassesESctruck.AssemblyInfoInputs.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\ClassesESctruck\obj\Debug\net5.0\ClassesESctruck.AssemblyInfo.cs
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\ClassesESctruck\obj\Debug\net5.0\ClassesESctruck.csproj.CoreCompileInputs.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\ClassesESctruck\bin\Debug\net5.0\ClassesESctruck.exe
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\ClassesESctruck\bin\Debug\net5.0\ClassesESctruck.deps.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\ClassesESctruck\bin\Debug\net5.0\ClassesESctruck.runtimeconfig.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\ClassesESctruck\bin\Debug\net5.0\ClassesESctruck.runtimeconfig.dev.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\ClassesESctruck\bin\Debug\net5.0\ClassesESctruck.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\ClassesESctruck\bin\Debug\net5.0\ref\ClassesESctruck.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\ClassesESctruck\bin\Debug\net5.0\ClassesESctruck.pdb
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\ClassesESctruck\obj\Debug\net5.0\ClassesESctruck.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\ClassesESctruck\obj\Debug\net5.0\ref\ClassesESctruck.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\ClassesESctruck\obj\Debug\net5.0\ClassesESctruck.pdb
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\ClassesESctruck\obj\Debug\net5.0\ClassesESctruck.genruntimeconfig.cache

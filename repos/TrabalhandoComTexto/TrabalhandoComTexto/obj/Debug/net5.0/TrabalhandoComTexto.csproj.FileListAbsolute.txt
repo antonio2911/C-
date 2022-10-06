@@ -1,0 +1,16 @@
+C:\Users\antonio.pardim\source\repos\TrabalhandoComTexto\TrabalhandoComTexto\bin\Debug\net5.0\TrabalhandoComTexto.exe
+C:\Users\antonio.pardim\source\repos\TrabalhandoComTexto\TrabalhandoComTexto\bin\Debug\net5.0\TrabalhandoComTexto.deps.json
+C:\Users\antonio.pardim\source\repos\TrabalhandoComTexto\TrabalhandoComTexto\bin\Debug\net5.0\TrabalhandoComTexto.runtimeconfig.json
+C:\Users\antonio.pardim\source\repos\TrabalhandoComTexto\TrabalhandoComTexto\bin\Debug\net5.0\TrabalhandoComTexto.runtimeconfig.dev.json
+C:\Users\antonio.pardim\source\repos\TrabalhandoComTexto\TrabalhandoComTexto\bin\Debug\net5.0\TrabalhandoComTexto.dll
+C:\Users\antonio.pardim\source\repos\TrabalhandoComTexto\TrabalhandoComTexto\bin\Debug\net5.0\ref\TrabalhandoComTexto.dll
+C:\Users\antonio.pardim\source\repos\TrabalhandoComTexto\TrabalhandoComTexto\bin\Debug\net5.0\TrabalhandoComTexto.pdb
+C:\Users\antonio.pardim\source\repos\TrabalhandoComTexto\TrabalhandoComTexto\obj\Debug\net5.0\TrabalhandoComTexto.csproj.AssemblyReference.cache
+C:\Users\antonio.pardim\source\repos\TrabalhandoComTexto\TrabalhandoComTexto\obj\Debug\net5.0\TrabalhandoComTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio.pardim\source\repos\TrabalhandoComTexto\TrabalhandoComTexto\obj\Debug\net5.0\TrabalhandoComTexto.AssemblyInfoInputs.cache
+C:\Users\antonio.pardim\source\repos\TrabalhandoComTexto\TrabalhandoComTexto\obj\Debug\net5.0\TrabalhandoComTexto.AssemblyInfo.cs
+C:\Users\antonio.pardim\source\repos\TrabalhandoComTexto\TrabalhandoComTexto\obj\Debug\net5.0\TrabalhandoComTexto.csproj.CoreCompileInputs.cache
+C:\Users\antonio.pardim\source\repos\TrabalhandoComTexto\TrabalhandoComTexto\obj\Debug\net5.0\TrabalhandoComTexto.dll
+C:\Users\antonio.pardim\source\repos\TrabalhandoComTexto\TrabalhandoComTexto\obj\Debug\net5.0\ref\TrabalhandoComTexto.dll
+C:\Users\antonio.pardim\source\repos\TrabalhandoComTexto\TrabalhandoComTexto\obj\Debug\net5.0\TrabalhandoComTexto.pdb
+C:\Users\antonio.pardim\source\repos\TrabalhandoComTexto\TrabalhandoComTexto\obj\Debug\net5.0\TrabalhandoComTexto.genruntimeconfig.cache

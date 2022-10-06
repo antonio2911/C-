@@ -1,0 +1,16 @@
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\funcoesParaString\bin\Debug\net5.0\funcoesParaString.exe
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\funcoesParaString\bin\Debug\net5.0\funcoesParaString.deps.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\funcoesParaString\bin\Debug\net5.0\funcoesParaString.runtimeconfig.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\funcoesParaString\bin\Debug\net5.0\funcoesParaString.runtimeconfig.dev.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\funcoesParaString\bin\Debug\net5.0\funcoesParaString.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\funcoesParaString\bin\Debug\net5.0\ref\funcoesParaString.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\funcoesParaString\bin\Debug\net5.0\funcoesParaString.pdb
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\funcoesParaString\obj\Debug\net5.0\funcoesParaString.csproj.AssemblyReference.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\funcoesParaString\obj\Debug\net5.0\funcoesParaString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\funcoesParaString\obj\Debug\net5.0\funcoesParaString.AssemblyInfoInputs.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\funcoesParaString\obj\Debug\net5.0\funcoesParaString.AssemblyInfo.cs
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\funcoesParaString\obj\Debug\net5.0\funcoesParaString.csproj.CoreCompileInputs.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\funcoesParaString\obj\Debug\net5.0\funcoesParaString.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\funcoesParaString\obj\Debug\net5.0\ref\funcoesParaString.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\funcoesParaString\obj\Debug\net5.0\funcoesParaString.pdb
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\funcoesParaString\obj\Debug\net5.0\funcoesParaString.genruntimeconfig.cache

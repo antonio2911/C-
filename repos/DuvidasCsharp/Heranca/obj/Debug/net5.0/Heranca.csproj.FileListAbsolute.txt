@@ -1,0 +1,16 @@
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Heranca\bin\Debug\net5.0\Heranca.exe
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Heranca\bin\Debug\net5.0\Heranca.deps.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Heranca\bin\Debug\net5.0\Heranca.runtimeconfig.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Heranca\bin\Debug\net5.0\Heranca.runtimeconfig.dev.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Heranca\bin\Debug\net5.0\Heranca.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Heranca\bin\Debug\net5.0\ref\Heranca.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Heranca\bin\Debug\net5.0\Heranca.pdb
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Heranca\obj\Debug\net5.0\Heranca.csproj.AssemblyReference.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Heranca\obj\Debug\net5.0\Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Heranca\obj\Debug\net5.0\Heranca.AssemblyInfoInputs.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Heranca\obj\Debug\net5.0\Heranca.AssemblyInfo.cs
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Heranca\obj\Debug\net5.0\Heranca.csproj.CoreCompileInputs.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Heranca\obj\Debug\net5.0\Heranca.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Heranca\obj\Debug\net5.0\ref\Heranca.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Heranca\obj\Debug\net5.0\Heranca.pdb
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Heranca\obj\Debug\net5.0\Heranca.genruntimeconfig.cache

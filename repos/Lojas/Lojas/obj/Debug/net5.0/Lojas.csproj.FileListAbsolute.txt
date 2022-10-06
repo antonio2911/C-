@@ -1,0 +1,7 @@
+C:\Users\antonio.pardim\source\repos\Lojas\Lojas\obj\Debug\net5.0\Lojas.csproj.AssemblyReference.cache
+C:\Users\antonio.pardim\source\repos\Lojas\Lojas\obj\Debug\net5.0\Lojas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio.pardim\source\repos\Lojas\Lojas\obj\Debug\net5.0\Lojas.AssemblyInfoInputs.cache
+C:\Users\antonio.pardim\source\repos\Lojas\Lojas\obj\Debug\net5.0\Lojas.AssemblyInfo.cs
+C:\Users\antonio.pardim\source\repos\Lojas\Lojas\obj\Debug\net5.0\Lojas.csproj.CoreCompileInputs.cache
+C:\Users\antonio.pardim\source\repos\Lojas\Lojas\obj\Debug\net5.0\Lojas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\antonio.pardim\source\repos\Lojas\Lojas\obj\Debug\net5.0\Lojas.MvcApplicationPartsAssemblyInfo.cache

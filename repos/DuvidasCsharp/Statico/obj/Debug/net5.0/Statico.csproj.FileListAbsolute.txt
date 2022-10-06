@@ -1,0 +1,16 @@
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Statico\bin\Debug\net5.0\Statico.exe
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Statico\bin\Debug\net5.0\Statico.deps.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Statico\bin\Debug\net5.0\Statico.runtimeconfig.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Statico\bin\Debug\net5.0\Statico.runtimeconfig.dev.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Statico\bin\Debug\net5.0\Statico.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Statico\bin\Debug\net5.0\ref\Statico.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Statico\bin\Debug\net5.0\Statico.pdb
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Statico\obj\Debug\net5.0\Statico.csproj.AssemblyReference.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Statico\obj\Debug\net5.0\Statico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Statico\obj\Debug\net5.0\Statico.AssemblyInfoInputs.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Statico\obj\Debug\net5.0\Statico.AssemblyInfo.cs
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Statico\obj\Debug\net5.0\Statico.csproj.CoreCompileInputs.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Statico\obj\Debug\net5.0\Statico.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Statico\obj\Debug\net5.0\ref\Statico.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Statico\obj\Debug\net5.0\Statico.pdb
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Statico\obj\Debug\net5.0\Statico.genruntimeconfig.cache

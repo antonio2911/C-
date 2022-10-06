@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+<RMSAliasData xmlns="http://tempuri.org/RMSAliasData.xsd">
+  <DbConfig>
+    <Alias>CorporeRM</Alias>
+    <DbType>SqlServer</DbType>
+    <DbProvider>SqlClient</DbProvider>
+    <DbServer>POASRVDBODEV005.sp01.local\SQL2019</DbServer>
+    <DbName>RM_MSINAI_V35</DbName>
+    <UserName>SYSDBA</UserName>
+    <Password>masterkey</Password>
+    <RunService>false</RunService>
+    <JobServerEnabled>false</JobServerEnabled>
+    <JobServerMaxThreads>3</JobServerMaxThreads>
+    <JobServerLocalOnly>false</JobServerLocalOnly>
+    <JobServerPollingInterval>10</JobServerPollingInterval>
+    <ChartAlertEnabled>false</ChartAlertEnabled>
+    <ChartAlertPollingInterval>20</ChartAlertPollingInterval>
+    <ChartHistoryEnabled>false</ChartHistoryEnabled>
+    <ChartHistoryPollingInterval>20</ChartHistoryPollingInterval>
+    <RSSReaderMailEnabled>false</RSSReaderMailEnabled>
+    <RSSReaderMailPollingInterval>10</RSSReaderMailPollingInterval>
+    <JobServerProcessPoolEnabled>true</JobServerProcessPoolEnabled>
+  </DbConfig>
+</RMSAliasData>

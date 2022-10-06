@@ -1,0 +1,16 @@
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Dicionario\bin\Debug\net5.0\Dicionario.exe
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Dicionario\bin\Debug\net5.0\Dicionario.deps.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Dicionario\bin\Debug\net5.0\Dicionario.runtimeconfig.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Dicionario\bin\Debug\net5.0\Dicionario.runtimeconfig.dev.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Dicionario\bin\Debug\net5.0\Dicionario.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Dicionario\bin\Debug\net5.0\ref\Dicionario.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Dicionario\bin\Debug\net5.0\Dicionario.pdb
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Dicionario\obj\Debug\net5.0\Dicionario.csproj.AssemblyReference.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Dicionario\obj\Debug\net5.0\Dicionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Dicionario\obj\Debug\net5.0\Dicionario.AssemblyInfoInputs.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Dicionario\obj\Debug\net5.0\Dicionario.AssemblyInfo.cs
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Dicionario\obj\Debug\net5.0\Dicionario.csproj.CoreCompileInputs.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Dicionario\obj\Debug\net5.0\Dicionario.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Dicionario\obj\Debug\net5.0\ref\Dicionario.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Dicionario\obj\Debug\net5.0\Dicionario.pdb
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Dicionario\obj\Debug\net5.0\Dicionario.genruntimeconfig.cache

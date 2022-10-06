@@ -1,0 +1,16 @@
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Casting\bin\Debug\net5.0\Casting.exe
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Casting\bin\Debug\net5.0\Casting.deps.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Casting\bin\Debug\net5.0\Casting.runtimeconfig.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Casting\bin\Debug\net5.0\Casting.runtimeconfig.dev.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Casting\bin\Debug\net5.0\Casting.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Casting\bin\Debug\net5.0\ref\Casting.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Casting\bin\Debug\net5.0\Casting.pdb
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Casting\obj\Debug\net5.0\Casting.csproj.AssemblyReference.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Casting\obj\Debug\net5.0\Casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Casting\obj\Debug\net5.0\Casting.AssemblyInfoInputs.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Casting\obj\Debug\net5.0\Casting.AssemblyInfo.cs
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Casting\obj\Debug\net5.0\Casting.csproj.CoreCompileInputs.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Casting\obj\Debug\net5.0\Casting.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Casting\obj\Debug\net5.0\ref\Casting.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Casting\obj\Debug\net5.0\Casting.pdb
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Casting\obj\Debug\net5.0\Casting.genruntimeconfig.cache

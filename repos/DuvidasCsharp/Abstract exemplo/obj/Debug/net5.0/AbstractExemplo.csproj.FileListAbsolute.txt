@@ -1,0 +1,16 @@
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Abstract exemplo\bin\Debug\net5.0\AbstractExemplo.exe
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Abstract exemplo\bin\Debug\net5.0\AbstractExemplo.deps.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Abstract exemplo\bin\Debug\net5.0\AbstractExemplo.runtimeconfig.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Abstract exemplo\bin\Debug\net5.0\AbstractExemplo.runtimeconfig.dev.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Abstract exemplo\bin\Debug\net5.0\AbstractExemplo.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Abstract exemplo\bin\Debug\net5.0\ref\AbstractExemplo.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Abstract exemplo\bin\Debug\net5.0\AbstractExemplo.pdb
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Abstract exemplo\obj\Debug\net5.0\AbstractExemplo.csproj.AssemblyReference.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Abstract exemplo\obj\Debug\net5.0\AbstractExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Abstract exemplo\obj\Debug\net5.0\AbstractExemplo.AssemblyInfoInputs.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Abstract exemplo\obj\Debug\net5.0\AbstractExemplo.AssemblyInfo.cs
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Abstract exemplo\obj\Debug\net5.0\AbstractExemplo.csproj.CoreCompileInputs.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Abstract exemplo\obj\Debug\net5.0\AbstractExemplo.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Abstract exemplo\obj\Debug\net5.0\ref\AbstractExemplo.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Abstract exemplo\obj\Debug\net5.0\AbstractExemplo.pdb
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\Abstract exemplo\obj\Debug\net5.0\AbstractExemplo.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\antonio.pardim\Documents\teste deploy\GetHastCodeExemplo.exe
+C:\Users\antonio.pardim\Documents\teste deploy\GetHastCodeExemplo.dll
+C:\Users\antonio.pardim\Documents\teste deploy\GetHastCodeExemplo.deps.json
+C:\Users\antonio.pardim\Documents\teste deploy\GetHastCodeExemplo.runtimeconfig.json
+C:\Users\antonio.pardim\Documents\teste deploy\GetHastCodeExemplo.pdb

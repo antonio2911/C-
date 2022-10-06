@@ -1,0 +1,16 @@
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\GenericsExemplos\bin\Debug\net5.0\GenericsExemplos.exe
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\GenericsExemplos\bin\Debug\net5.0\GenericsExemplos.deps.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\GenericsExemplos\bin\Debug\net5.0\GenericsExemplos.runtimeconfig.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\GenericsExemplos\bin\Debug\net5.0\GenericsExemplos.runtimeconfig.dev.json
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\GenericsExemplos\bin\Debug\net5.0\GenericsExemplos.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\GenericsExemplos\bin\Debug\net5.0\ref\GenericsExemplos.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\GenericsExemplos\bin\Debug\net5.0\GenericsExemplos.pdb
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\GenericsExemplos\obj\Debug\net5.0\GenericsExemplos.csproj.AssemblyReference.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\GenericsExemplos\obj\Debug\net5.0\GenericsExemplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\GenericsExemplos\obj\Debug\net5.0\GenericsExemplos.AssemblyInfoInputs.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\GenericsExemplos\obj\Debug\net5.0\GenericsExemplos.AssemblyInfo.cs
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\GenericsExemplos\obj\Debug\net5.0\GenericsExemplos.csproj.CoreCompileInputs.cache
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\GenericsExemplos\obj\Debug\net5.0\GenericsExemplos.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\GenericsExemplos\obj\Debug\net5.0\ref\GenericsExemplos.dll
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\GenericsExemplos\obj\Debug\net5.0\GenericsExemplos.pdb
+C:\Users\antonio.pardim\source\repos\DuvidasCsharp\GenericsExemplos\obj\Debug\net5.0\GenericsExemplos.genruntimeconfig.cache
